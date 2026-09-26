@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Jhonatha Oliveira</h1>
+<h1 align="center">Olá! 👋 Eu sou o Jhonatha Oliveira </h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack em formação</strong>
